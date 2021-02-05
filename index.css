@@ -1,1 +1,81 @@
-/* Your CSS goes here */
+.header{
+    font-size: 18px;
+
+    background-color: #454f6f;
+    border: 2px;
+    margin: 0%;
+    padding: 20px;
+    color: white;
+    
+    
+    
+}
+nav{
+    display: inline;
+    float: right;
+    line-height: 9px;
+    list-style: none;
+    color:black;
+}
+#bigheader{
+    
+    padding: 5%;
+    background-color: orangered;
+    font-size: 18px;
+    color: white;
+    border: 5%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+   
+
+    
+}
+#section1{
+    text-align: center;
+    font-family: arial;
+    background-color: e6834c;
+    padding: 50px;
+    border: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0px;
+    float: left;
+
+
+    
+    
+}
+#section2{
+    text-align:center;
+    columns: 2;
+    border: 10%;
+    width: 100%;
+
+    
+
+}
+
+#section3{
+    text-align: center;
+    column-count: 2;
+    margin: 10px;
+
+    
+    }
+    .footer{
+        font-size: 18px;
+
+        background-color: rgb(83, 71, 255);
+        border: 2px;
+        margin: 0%;
+        padding: 20px;
+        color: white; 
+    }
+  
+    
+
+
+
+    
+
+
+
